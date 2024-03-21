@@ -34,29 +34,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="left">
- 
-  <!--<div  align="center">
-  <code><img height="50" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="50" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="38" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img  height="50" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img  height="45"  alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  -->
- <!-- 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue) 
-![Bootstrap-05](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/redux-black.svg?style=flat-square&logo=redux&logoColor=purple) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=yellow)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
--->
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,webpack,js,ts,php,java,c#,laravel,vue,spring,angular,materialui,styledcomponents,vuetify,nginx,tailwind,nodejs,git,github,gitlab,express,mysql,figma,vscode,vagrant,bash,linux,postman,aws,blender&perline=19&theme=light)](https://skillicons.dev)
   
   
@@ -78,13 +56,13 @@ Here are some ideas to get you started:
  ## 🏆 Github Status
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=mifrasgaffoor&show_icons=true&theme=yeblu" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mifrasgaffoor&show_icons=true&theme=yeblu" width="45%"  >
+<img  src="https://github-readme-stats.vercel.app/api?username=jaseelmohamed12&show_icons=true&theme=yeblu" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaseelmohamed12&show_icons=true&theme=yeblu" width="45%"  >
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mifrasgaffoor" alt="mifrasgaffoor" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaseelmohamed12" alt="jaseelmohamed12" /></a> </p>
  
  
  
