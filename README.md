@@ -76,8 +76,8 @@ Here are some ideas to get you started:
 
  ## followers & viewes 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mifrasgaffoor&label=Profile%20views&color=yellow&style=flat" alt="mifrasgaffoor" /> <href="https://github.com/mifrasgaffoor?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mifrasgaffoor?color=blueviolet&logo=github">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseelmohamed12&label=Profile%20views&color=yellow&style=flat" alt="jaseelmohamed12" /> <href="https://github.com/jaseelmohamed12?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/jaseelmohamed12?color=blueviolet&logo=github">
  </a>
  
  
